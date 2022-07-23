@@ -1,0 +1,36 @@
+body{
+  background: url('https://images7.alphacoders.com/381/381181.jpg');
+  background-size: cover;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+div{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1{
+  color: chocolate;
+}
+
+img{
+  width: 400px;
+}
+
+#thirdDiv{
+  height: 600px;
+  width: 500px;
+  background-color: tomato;
+  padding: 50px;
+  border: 1px solid black;
+}
+
+#spanId{
+  font-size: 18px;
+  margin: 50px;
+}
