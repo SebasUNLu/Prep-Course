@@ -1,0 +1,28 @@
+body{
+ width: 70%;
+ margin: auto;
+ margin-bottom: 2em;
+ display: flex;
+ flex-direction: column;
+}
+
+img{
+  width: 10em;
+}
+
+h1, h2{
+  text-align: center;
+}
+
+span{
+  margin-top: 2em;
+}
+
+#span-pic{
+  display: flex;
+  justify-content: center;
+}
+
+.text-span{
+  text-align: center;
+}
