@@ -1,9 +1,12 @@
 * Variables
   Las variables nos permiten guardar valores, como números o palabras, en nuestro código que queremos usar o cambiar en algún momento. Normalmente indicamos de que tipo de variable se trata, por ejemplo podemos indicar que una variable es del tipo "número", por lo tanto contendrá un número.
+  En javascript, no es necesario indicar el tipo de variable. Simplemente basta con crear la variable y asignarle un valor que queramos:
+  let variable = valor;
 
 
 * Strings
-  Un String es un tipo de dato que guarda palabras, o "conjunto de letras o caracteres". Si quisiera guardar un String en una variable, primero indico que la variable es del tipo String y luego guardo el valor, utilizando comillas ("ejemplo"). No tiene porque ser solo una palabra, pueden ser también oraciones como "hola mundo!". Es importante que, cuando se quiere guardar una palabra u oración como String, esta esté rodeado con comillas. 
+  Un String es un tipo de dato que guarda palabras, o "conjunto de letras o caracteres". Si quisiera guardar un String en una variable, defino una variale con la palabra reservada "let" y luego guardo el valor, utilizando comillas (let str = "ejemplo"). No tiene porque ser solo una palabra, pueden ser también oraciones como "hola mundo!". 
+  Es importante que, cuando se quiere guardar una palabra u oración como String, esta esté rodeado con comillas. 
 
 
 * Funciones (argumentos, `return`)
